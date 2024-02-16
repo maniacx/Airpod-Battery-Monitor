@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="gnome-shell-extensions">
+    <schema path="/org/gnome/shell/extensions/Airpods-Battery-Monitor/" id="org.gnome.shell.extensions.Airpods-Battery-Monitor">
+        <key name="airpods-list" type="as">
+            <default>[]</default>
+            <summary>history of paired devices</summary>
+        </key>
+        <key name="default-selected-path" type="s">
+            <default>''</default>
+            <summary>default path for panel indicators</summary>
+        </key>
+        <key name="gui-interface" type="b">
+            <default>false</default>
+            <summary>Select Panel-Popupmenu or Indictor-Message-Tray</summary>
+        </key>
+    </schema>
+</schemalist>
