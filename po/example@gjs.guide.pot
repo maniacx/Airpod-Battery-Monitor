@@ -1,0 +1,118 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-17 16:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ui/about.ui:5
+msgid "About"
+msgstr ""
+
+#: ui/about.ui:75
+msgid "Read me"
+msgstr ""
+
+#: ui/about.ui:97
+msgid "Report an Issue"
+msgstr ""
+
+#: ui/about.ui:114 ui/about.ui:197
+msgid "Translations"
+msgstr ""
+
+#: ui/about.ui:136
+msgid "View sources on Github"
+msgstr ""
+
+#: ui/about.ui:153 ui/about.ui:271
+msgid "Legal"
+msgstr ""
+
+#: ui/about.ui:217
+msgid "Crowdin"
+msgstr ""
+
+#: ui/about.ui:229
+msgid "Online Tutorials"
+msgstr ""
+
+#: ui/general.ui:5
+msgid "General"
+msgstr ""
+
+#: ui/general.ui:10
+msgid "Settings"
+msgstr ""
+
+#: ui/general.ui:13
+msgid "Choose interface style"
+msgstr ""
+
+#: ui/general.ui:28
+msgid "Choose Model of Airpods"
+msgstr ""
+
+#: ui/general.ui:31
+msgid "No Airpods paired!"
+msgstr ""
+
+#: ui/general.ui:38
+msgid "Meter Indicators and Trays"
+msgstr ""
+
+#: ui/general.ui:39
+msgid "Panel Labels and Popup Menu"
+msgstr ""
+
+#: lib/airpodPanel.js:16
+msgid "Bluetooth battery Indicator"
+msgstr ""
+
+#: lib/airpodPanel.js:25
+msgid "Headphone Battery Information"
+msgstr ""
+
+#: lib/airpodPanel.js:254 lib/airpodTrayIndicator.js:227
+msgid "Not detected"
+msgstr ""
+
+#: lib/airpodPanel.js:294 lib/airpodTrayIndicator.js:257
+msgid "Last updated: "
+msgstr ""
+
+#: preferences/about.js:40
+msgid "GNU General Public License, version 3 or later"
+msgstr ""
+
+#: preferences/about.js:47
+#, javascript-format
+msgid "© %s %s"
+msgstr ""
+
+#: preferences/about.js:48
+#, javascript-format
+msgid ""
+"This application comes with absolutely no warranty. See the <a href=\"%s\">"
+"%s</a> for details."
+msgstr ""
+
+#: preferences/general.js:70
+msgid "(Paired)"
+msgstr ""
+
+#: preferences/general.js:71
+msgid "(Connected)"
+msgstr ""
