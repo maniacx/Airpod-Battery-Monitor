@@ -9,7 +9,7 @@
   padding-top: 8px;
   padding-bottom: 8px;
   font-weight: bold;
-} 
+}
 .abm-panel-icon-check {
   padding: 0.5em;
 }
@@ -23,6 +23,9 @@
 .abm-panel-start-bin {
   padding-left: 8px;
   padding-right: 8px;
+}
+.abm-panel-space-bin {
+  min-width: 20px
 }
 .abm-panel-battery-box {
   padding-left: 8px;
@@ -56,8 +59,7 @@
   font-weight: bold;
 }
 .abm-message-battery-bin {
-  padding-left: 10px;
-  padding-right: 10px;
+  min-width: 10px
 }
 .abm-message-battery-label {
   padding-left: 4px;
