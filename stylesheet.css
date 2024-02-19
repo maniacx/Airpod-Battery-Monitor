@@ -1,0 +1,72 @@
+.abm-panel-title-label {
+  font-weight: bold;
+  text-align: center;
+}
+.abm-panel-popup-menu {
+  min-width: 15em;
+}
+.abm-panel-label-model {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-weight: bold;
+}
+.abm-panel-icon-check {
+  padding: 0.5em;
+}
+.abm-panel-hbox {
+  padding-top: 2px;
+  padding-bottom: 2px;
+} 
+.abm-panel-icon {
+  padding: 0.2em;
+}
+.abm-panel-start-bin {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.abm-panel-space-bin {
+  min-width: 20px
+}
+.abm-panel-battery-box {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.abm-panel-battery-label {
+  padding-top: 4px;
+  font-size: 0.75em;
+  text-align: center;
+}
+.abm-panel-time-label {
+  color: rgba(128, 128, 128, 1);
+  padding: 2px;
+  font-size: 0.75em;
+}
+.abm-message-box:ltr {
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-left: 8px;
+  padding-right: 18px;
+}
+.abm-message-box:rtl {
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-left: 18px;
+  padding-right: 8px;
+}
+.abm-message-title {
+  padding-left: 2px;
+  padding-right: 2px;
+  font-weight: bold;
+}
+.abm-message-battery-label {
+  width: 3.1em;
+  padding-left: 4px;
+  padding-right: 4px;
+  font-size: 0.75em;
+}
+.abm-message-time {
+  color: rgba(128, 128, 128, 1);
+  font-size: 0.75em;;
+}
+
+

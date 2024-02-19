@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface domain="Airpod-Battery-Monitor@maniacx.github.com">
+  <template class="ABM_General" parent="AdwPreferencesPage">
+    <property name="name">General</property>
+    <property name="title" translatable="yes">General</property>
+    <property name="icon-name">view-list-symbolic</property>
+    
+    <child>
+      <object class="AdwPreferencesGroup">
+        <property name="title" translatable="yes">Settings</property>
+        <child>
+          <object class="AdwActionRow" id="gui_interface_row">
+            <property name="title" translatable="yes">Choose interface style</property>
+            <property name="activatable-widget">gui_interface</property>
+            <child>
+              <object class="GtkDropDown" id="gui_interface">
+                <property name="valign">center</property>
+                <property name="model">gui_interface_model</property>
+              </object>
+            </child>
+          </object>
+        </child>
+      </object>
+    </child>
+    
+    <child>
+      <object class="AdwPreferencesGroup" id="model_group">
+        <property name="title" translatable="yes">Choose Model of Airpods</property>
+        <child>
+          <object class="AdwActionRow" id="no_paired_row">
+            <property name="title" translatable="yes">No Airpods paired!</property>
+          </object>
+        </child>
+      </object>
+    </child>
+  <object class="GtkStringList" id="gui_interface_model">
+    <items>
+      <item translatable="yes">Meter Indicators with Message tray</item>
+      <item translatable="yes">Panel Labels and Popup Menu</item>
+    </items>
+  </object>
+  </template>
+</interface>
