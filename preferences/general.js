@@ -1,9 +1,10 @@
 'use strict';
 import Adw from 'gi://Adw';
 import GLib from 'gi://GLib';
-import Gtk from 'gi://Gtk';
 import GObject from 'gi://GObject';
+import Gtk from 'gi://Gtk';
 import {gettext as _} from 'resource:///org/gnome/Shell/Extensions/js/extensions/prefs.js';
+
 import {ModelList} from '../lib/devices.js';
 
 const  DeviceItem = GObject.registerClass({
@@ -66,7 +67,6 @@ const  DeviceItem = GObject.registerClass({
     }
 
     updateProperites(alias, connected, paired) {
-        log(` DeviceItem mac = ${this._macAddesss}, alias = ${alias}`);
         const pairedLabel = _('(Paired)');
         const connectedLabel = _('(Connected)');
         const label = paired ? `${this._macAddesss} ${pairedLabel}` : this._macAddesss;
@@ -114,8 +114,6 @@ export const  General = GObject.registerClass({
         this._no_paired_row.visible  = false;
         for (const pathInfo of pathsString) {
             const {path, alias, model, connected, paired} = pathInfo;
-            log(`path = ${path} alias = ${alias} model = ${model} connected = ${connected} paired = ${paired}`);
-
             if (this._deviceItems.has(path)) {
                 const row = this._deviceItems.get(path);
                 row.updateProperites(alias, connected, paired);
