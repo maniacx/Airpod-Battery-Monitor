@@ -4,7 +4,7 @@
 cd "${0%/*}"
 
 EXT_NAME="Airpod Battery Monitor"
-EXT_UUID="Airpods-Battery-Monitor@maniacx.github.com"
+EXT_UUID="Airpod-Battery-Monitor@maniacx.github.com"
 
 if ! command -v msgfmt &> /dev/null
 then

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist gettext-domain="gnome-shell-extensions">
-    <schema path="/org/gnome/shell/extensions/Airpods-Battery-Monitor/" id="org.gnome.shell.extensions.Airpods-Battery-Monitor">
+    <schema path="/org/gnome/shell/extensions/Airpod-Battery-Monitor/" id="org.gnome.shell.extensions.Airpod-Battery-Monitor">
         <key name="airpods-list" type="as">
             <default>[]</default>
             <summary>history of paired devices</summary>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<interface domain="Airpods-Battery-Monitor@maniacx.github.com">
+<interface domain="Airpod-Battery-Monitor@maniacx.github.com">
   <template class="ABM_General" parent="AdwPreferencesPage">
     <property name="name">General</property>
     <property name="title" translatable="yes">General</property>
