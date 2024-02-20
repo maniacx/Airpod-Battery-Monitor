@@ -58,10 +58,8 @@
   padding-right: 2px;
   font-weight: bold;
 }
-.abm-message-battery-bin {
-  min-width: 10px
-}
 .abm-message-battery-label {
+  width: 3.1em;
   padding-left: 4px;
   padding-right: 4px;
   font-size: 0.75em;
