@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Airpod Battery Monitor\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-20 22:05-0800\n"
+"POT-Creation-Date: 2024-02-20 22:35-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: lib/airpodPanel.js:16
-msgid "Bluetooth battery Indicator"
+msgid "Airpod Battery Monitor"
 msgstr ""
 
 #: lib/airpodPanel.js:24
@@ -116,5 +116,3 @@ msgstr ""
 #: ui/general.ui:39
 msgid "Panel Labels and Popup Menu"
 msgstr ""
-
-
