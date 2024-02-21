@@ -55,7 +55,7 @@ export const About = GObject.registerClass({
         this._assignURL(this._row_readme, 'https://maniacx.github.io/Airpod-Battery-Monitor');
         this._assignURL(this._row_bug_report, 'https://github.com/maniacx/Airpod-Battery-Monitor/issues');
         this._assignURL(this._row_sources, 'https://github.com/maniacx/Airpod-Battery-Monitor/');
-        this._assignURL(this._row_crowdin, 'https://crowdin.com/project/airpod-battery-level');
+        this._assignURL(this._row_crowdin, 'https://crowdin.com/project/airpod-battery-monitor');
         this._assignURL(this._row_translation_guide, 'https://maniacx.github.io/Airpod-Battery-Monitor/translation');
     }
 
