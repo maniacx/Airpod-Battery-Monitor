@@ -7,8 +7,21 @@ permalink: /credits
 
 ## Credits and Reference
 
-Special thanks goes to Toxblh@github for testing and improving airpod detection code.
-And to Deminder@github for code related to St.DrawingArea
+**Special thanks goes to Toxblh@github for testing and improving airpod detection code.**
+**Also Deminder@github for code related to St.DrawingArea**
+
+{: .important-title }
+> OpenPods android app
+>
+> by adolfintel<br><https://github.com/adolfintel/OpenPods>
+
+{: .important-title }
+> AirStatus Python Script and extension
+>
+> by delphiki<br><https://github.com/delphiki/AirStatus>
+
+
+https://github.com/delphiki/gnome-airpods-battery-status
 
 {: .important-title }
 > Upower Battery

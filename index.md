@@ -6,7 +6,7 @@ description: "Airpod Battery Monitor"
 permalink: /
 ---
 # Airpod Battery Monitor
-[<img src="./assets/images/home/get-it-on-gnome-extension.png" width="45%">](https://extensions.gnome.org/extension/6670/airpod-battery-monitor/)
+[<img src="./assets/images/home/get-it-on-gnome-extension.png" width="45%">](https://extensions.gnome.org/extension/6778/airpod-battery-monitor/)
 [<img src="./assets/images/home/view-sources-on-github.png" width="45%" class="float-right">](https://github.com/maniacx/Airpod-Battery-Monitor)
 
 {: .important-title }
@@ -53,5 +53,18 @@ permalink: /
 * Once Airpods are connected to your system, they will be listed in the extension preferences.
 * Choose the specific Airpod model in the preferences, and the extension will commence scanning for the BLE beacon advertising that model.
 * The extension will then display the battery information of the Airpod with the strongest Bluetooth signal.
+ 
+---
+
+# Extension Preference
+
+<img src="./assets/images/home/extension-prefs.png" width="100%">
+
+### Choose model of Airpod
+* This section comprises the list of paired or connected Airpods.
+* The extension will only start scanning for the airpod when correct model is chosen.
+* The selected model is then compared with the BLE advertising model variant, and upon a match, the nearest Airpod of that model is selected to report battery levels.
+* The information is persistently stored, even after the Airpod is unpaired, for future reference.
+* If you wish to discontinue the use of an Airpod, you can remove it from the list using the `Delete` button. This button is accessible only when the Airpod is unpaired from the system.
 
 

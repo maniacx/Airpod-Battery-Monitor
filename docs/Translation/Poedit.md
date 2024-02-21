@@ -39,7 +39,7 @@ Begin by choosing one of the following methods:
 <img src="./assets/images/translation/poedit-guide/create-new.png" width="40%">
 
 ---
-### 2. Select `Bluetooth Battery Meter.pot` and Click `Open`
+### 2. Select `Airpod Battery Monitor.pot` and Click `Open`
 <img src="./assets/images/translation/poedit-guide/create-open-dialog.png" width="80%">
 
 ---

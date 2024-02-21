@@ -10,7 +10,7 @@ permalink: /bugs-feature-request
 Encountering issues with this extension? Please follow the steps below for troubleshooting and reporting:
 
 1. Check if there are any other Gnome extension installed and enabled that might conflict with this extension.
-2. Reset the `gsettings` for this extension. First, disable the extension using the `Extensions` or `Extension Manager` app. To reset `gsettings` for the Bluetooth Battery Meter extension, use the command below in the `terminal`:
+2. Reset the `gsettings` for this extension. First, disable the extension using the `Extensions` or `Extension Manager` app. To reset `gsettings` for the Airpod Battery Monitor extension, use the command below in the `terminal`:
 ```bash
 gsettings --schemadir /home/$USER/.local/share/gnome-shell/extensions/Airpod-Battery-Monitor@maniacx.github.com/schemas reset-recursively org.gnome.shell.extensions.Airpod-Battery-Monitor
 ```

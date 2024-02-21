@@ -666,7 +666,7 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    BLUETOOTH BATTERY METER GNOME Shell Extension
+    AIRPOD BATTERY MONITOR GNOME Shell Extension
     Copyright (C) 2024  maniacx@github.com
 
     This program is free software: you can redistribute it and/or modify
@@ -687,7 +687,7 @@ Also add information on how to contact you by electronic and paper mail.
   If the program does terminal interaction, make it output a short
 notice like this when it starts in an interactive mode:
 
-    BLUETOOTH BATTERY METER GNOME Shell Extension
+    AIRPOD BATTERY MONITOR GNOME Shell Extension
     Copyright (C) 2024  maniacx@github.com
     
     This program comes with ABSOLUTELY NO WARRANTY.

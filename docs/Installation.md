@@ -7,12 +7,9 @@ permalink: /installation
 
 # Installation
 
-{: .warning }
-This extension may conflict with other Bluetooth related Gnome Extensions. It's better to disable or remove them before using this extension.
-
 ## Gnome Extension Website
 
-[<img src="./assets/images/home/get-it-on-gnome-extension.png" width="45%">](https://extensions.gnome.org/extension/6670/airpod-battery-monitor/)
+[<img src="./assets/images/home/get-it-on-gnome-extension.png" width="45%">](https://extensions.gnome.org/extension/6778/airpod-battery-monitor/)
 
 * The extension is available on the Gnome Extension Website https://extensions.gnome.org/, where it undergoes a review process upon submission.
 * Therefore, it's recommended to install this extension from the website.
@@ -21,7 +18,7 @@ This extension may conflict with other Bluetooth related Gnome Extensions. It's 
  
 [<img src="./assets/images/installation/extension.png" width="45%">](https://flathub.org/apps/org.gnome.Extensions)[<img src="./assets/images/installation/extension-manager.png" width="45%" class="float-right">](https://flathub.org/apps/com.mattjakeman.ExtensionManager)
 
-* Either search for the extension by its name, "Bluetooth Battery Meter" or use the website link below<br><https://extensions.gnome.org/extension/6670/airpod-battery-monitor/>
+* Either search for the extension by its name, "Airpod Battery Monitor" or use the website link below<br><https://extensions.gnome.org/extension/6778/airpod-battery-monitor/>
 
 ## From Github
 
@@ -32,9 +29,6 @@ This extension may conflict with other Bluetooth related Gnome Extensions. It's 
 * Run `./install.sh` from terminal to install.
 * Open terminal and
 ```
-
-
-
 
 ## Uninstallation
 
