@@ -7,7 +7,6 @@ permalink: /changelogs
 
 # Changelogs
 
-
 {: .important-title }
 > GN-45_Version 02 &emsp;&emsp; Feb 21, 2024 
 > * translation: Update russian translation. Credits: Toxblh
