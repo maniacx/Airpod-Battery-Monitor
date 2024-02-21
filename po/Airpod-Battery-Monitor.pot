@@ -1,22 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR maniacx@github.com
+# This file is distributed under the same license as the Airpod Battery Monitor package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Airpods Battery Monitor\n"
+"Project-Id-Version: Airpod Battery Monitor\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-20 22:03-0800\n"
-"PO-Revision-Date: 2024-02-20 22:05-0800\n"
-"Last-Translator: Anton Palgunov <toxblh@gmail.com>\n"
-"Language-Team: \n"
-"Language: ru\n"
+"POT-Creation-Date: 2024-02-20 22:05-0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.2\n"
 
 #: lib/airpodPanel.js:16
 msgid "Bluetooth battery Indicator"
@@ -24,19 +23,19 @@ msgstr ""
 
 #: lib/airpodPanel.js:24
 msgid "Headphone Battery Information"
-msgstr "Информация о батарее наушников"
+msgstr ""
 
 #: lib/airpodPanel.js:247 lib/airpodTrayIndicator.js:220
 msgid "Not detected"
-msgstr "Нет обнаружено"
+msgstr ""
 
 #: lib/airpodPanel.js:289 lib/airpodTrayIndicator.js:252
 msgid "Last updated: "
-msgstr "Обновлено: "
+msgstr ""
 
 #: preferences/about.js:40
 msgid "GNU General Public License, version 3 or later"
-msgstr "GNU General Public License, версии 3 или позже"
+msgstr ""
 
 #: preferences/about.js:47
 #, javascript-format
@@ -49,39 +48,38 @@ msgid ""
 "This application comes with absolutely no warranty. See the <a "
 "href=\"%s\">%s</a> for details."
 msgstr ""
-"Это приложение не имеет никакой гарантии. Подробнее <a href=“%s”>%s</a>."
 
 #: preferences/general.js:70
 msgid "(Paired)"
-msgstr "(Cопряжены)"
+msgstr ""
 
 #: preferences/general.js:71
 msgid "(Connected)"
-msgstr "(Подключено)"
+msgstr ""
 
 #: ui/about.ui:5
 msgid "About"
-msgstr "О программе"
+msgstr ""
 
 #: ui/about.ui:75
 msgid "Read me"
-msgstr "Инструкция"
+msgstr ""
 
 #: ui/about.ui:97
 msgid "Report an Issue"
-msgstr "Сообщить об ошибке"
+msgstr ""
 
 #: ui/about.ui:114 ui/about.ui:197
 msgid "Translations"
-msgstr "Переводы"
+msgstr ""
 
 #: ui/about.ui:136
 msgid "View sources on Github"
-msgstr "Посмотреть исходный код на Github"
+msgstr ""
 
 #: ui/about.ui:153 ui/about.ui:271
 msgid "Legal"
-msgstr "Правовой статус"
+msgstr ""
 
 #: ui/about.ui:217
 msgid "Crowdin"
@@ -89,33 +87,32 @@ msgstr ""
 
 #: ui/about.ui:229
 msgid "Online Tutorials"
-msgstr "Онлайн уроки"
+msgstr ""
 
 #: ui/general.ui:5
 msgid "General"
-msgstr "Общие"
+msgstr ""
 
 #: ui/general.ui:10
 msgid "Settings"
-msgstr "Настройки"
+msgstr ""
 
 #: ui/general.ui:13
 msgid "Choose interface style"
-msgstr "Выберите стиль отображения"
+msgstr ""
 
 #: ui/general.ui:28
 msgid "Choose Model of Airpods"
-msgstr "Выберите модель AirPods"
+msgstr ""
 
 #: ui/general.ui:31
 msgid "No Airpods paired!"
-msgstr "Нет сопряженных Airpods!"
+msgstr ""
 
 #: ui/general.ui:38
 msgid "Meter Indicators with Message tray"
-msgstr "Индикаторы в трее"
+msgstr ""
 
 #: ui/general.ui:39
 msgid "Panel Labels and Popup Menu"
-msgstr "Статус и Попап меню"
-
+msgstr ""

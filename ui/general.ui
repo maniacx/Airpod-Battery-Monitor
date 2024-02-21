@@ -35,7 +35,7 @@
     </child>
   <object class="GtkStringList" id="gui_interface_model">
     <items>
-      <item translatable="yes">Meter Indicators and Trays</item>
+      <item translatable="yes">Meter Indicators with Message tray</item>
       <item translatable="yes">Panel Labels and Popup Menu</item>
     </items>
   </object>
