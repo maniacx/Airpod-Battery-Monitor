@@ -9,7 +9,7 @@
 <br>
 <br>
 
-[<img src="https://github.com/maniacx/Airpod-Battery-Monitor/blob/Documentation/assets/images/home/get-it-on-gnome-extension.png" width="35%">](https://extensions.gnome.org/extension/6670/airpod-battery-level/)
+[<img src="https://github.com/maniacx/Airpod-Battery-Monitor/blob/Documentation/assets/images/home/get-it-on-gnome-extension.png" width="35%">](https://extensions.gnome.org/extension/6778/airpod-battery-monitor/)
 
 <br>
 
