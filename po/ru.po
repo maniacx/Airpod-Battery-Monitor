@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Airpods Battery Monitor\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-20 22:35-0800\n"
+"POT-Creation-Date: 2024-02-23 17:54-0800\n"
 "PO-Revision-Date: 2024-02-20 22:05-0800\n"
 "Last-Translator: Anton Palgunov <toxblh@gmail.com>\n"
 "Language-Team: \n"
@@ -18,19 +18,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.4.2\n"
 
-#: lib/airpodPanel.js:16
+#: lib/airpodPanel.js:18
 msgid "Airpod Battery Monitor"
 msgstr ""
 
-#: lib/airpodPanel.js:24
+#: lib/airpodPanel.js:26
 msgid "Headphone Battery Information"
 msgstr "Информация о батарее наушников"
 
-#: lib/airpodPanel.js:247 lib/airpodTrayIndicator.js:220
-msgid "Not detected"
-msgstr "Нет обнаружено"
+#: lib/airpodPanel.js:254 lib/airpodTrayIndicator.js:244
+msgid "Scanning..."
+msgstr ""
 
-#: lib/airpodPanel.js:289 lib/airpodTrayIndicator.js:252
+#: lib/airpodPanel.js:307 lib/airpodTrayIndicator.js:287
 msgid "Last updated: "
 msgstr "Обновлено: "
 
@@ -118,3 +118,6 @@ msgstr "Индикаторы в трее"
 #: ui/general.ui:39
 msgid "Panel Labels and Popup Menu"
 msgstr "Статус и Попап меню"
+
+#~ msgid "Not detected"
+#~ msgstr "Нет обнаружено"

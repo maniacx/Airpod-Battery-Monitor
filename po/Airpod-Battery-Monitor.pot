@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Airpod Battery Monitor\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-20 22:35-0800\n"
+"POT-Creation-Date: 2024-02-23 17:54-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,19 +17,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: lib/airpodPanel.js:16
+#: lib/airpodPanel.js:18
 msgid "Airpod Battery Monitor"
 msgstr ""
 
-#: lib/airpodPanel.js:24
+#: lib/airpodPanel.js:26
 msgid "Headphone Battery Information"
 msgstr ""
 
-#: lib/airpodPanel.js:247 lib/airpodTrayIndicator.js:220
-msgid "Not detected"
+#: lib/airpodPanel.js:254 lib/airpodTrayIndicator.js:244
+msgid "Scanning..."
 msgstr ""
 
-#: lib/airpodPanel.js:289 lib/airpodTrayIndicator.js:252
+#: lib/airpodPanel.js:307 lib/airpodTrayIndicator.js:287
 msgid "Last updated: "
 msgstr ""
 
