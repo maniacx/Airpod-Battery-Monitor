@@ -1,0 +1,121 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR maniacx@github.com
+# This file is distributed under the same license as the Airpod Battery Monitor package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Airpod Battery Monitor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-23 17:54-0800\n"
+"PO-Revision-Date: 2024-02-25 21:10+0100\n"
+"Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: lib/airpodPanel.js:18
+msgid "Airpod Battery Monitor"
+msgstr "Airpod-accumonitor"
+
+#: lib/airpodPanel.js:26
+msgid "Headphone Battery Information"
+msgstr "Accu-informatie omtrent koptelefoon"
+
+#: lib/airpodPanel.js:254 lib/airpodTrayIndicator.js:244
+msgid "Scanning..."
+msgstr "Bezig met zoeken…"
+
+#: lib/airpodPanel.js:307 lib/airpodTrayIndicator.js:287
+msgid "Last updated: "
+msgstr "Laatst bijgewerkt: "
+
+#: preferences/about.js:40
+msgid "GNU General Public License, version 3 or later"
+msgstr "GNU General Public License, versie 3 of nieuwer"
+
+#: preferences/about.js:47
+#, javascript-format
+msgid "© %s %s"
+msgstr "© %s %s"
+
+#: preferences/about.js:48
+#, javascript-format
+msgid ""
+"This application comes with absolutely no warranty. See the <a "
+"href=\"%s\">%s</a> for details."
+msgstr ""
+"Deze toepassing wordt zonder enige vorm van garantie geleverd. "
+"Bekijk voor meer informatie <a href=\"%s\">%s</a>."
+
+#: preferences/general.js:70
+msgid "(Paired)"
+msgstr "(gekoppeld)"
+
+#: preferences/general.js:71
+msgid "(Connected)"
+msgstr "(verbonden)"
+
+#: ui/about.ui:5
+msgid "About"
+msgstr "Over"
+
+#: ui/about.ui:75
+msgid "Read me"
+msgstr "Leesmij"
+
+#: ui/about.ui:97
+msgid "Report an Issue"
+msgstr "Probleem melden"
+
+#: ui/about.ui:114 ui/about.ui:197
+msgid "Translations"
+msgstr "Vertalingen"
+
+#: ui/about.ui:136
+msgid "View sources on Github"
+msgstr "Broncode bekijken op GitHub"
+
+#: ui/about.ui:153 ui/about.ui:271
+msgid "Legal"
+msgstr "Juridisch"
+
+#: ui/about.ui:217
+msgid "Crowdin"
+msgstr "Crowdin"
+
+#: ui/about.ui:229
+msgid "Online Tutorials"
+msgstr "Online-documentatie"
+
+#: ui/general.ui:5
+msgid "General"
+msgstr "Algemeen"
+
+#: ui/general.ui:10
+msgid "Settings"
+msgstr "Voorkeuren"
+
+#: ui/general.ui:13
+msgid "Choose interface style"
+msgstr "Kies een weergavestijl"
+
+#: ui/general.ui:28
+msgid "Choose Model of Airpods"
+msgstr "Kies uw Airpods-uitvoering"
+
+#: ui/general.ui:31
+msgid "No Airpods paired!"
+msgstr "Er zijn geen Airpods gekoppeld!"
+
+#: ui/general.ui:38
+msgid "Meter Indicators with Message tray"
+msgstr "Niveaubalken met berichtenvak"
+
+#: ui/general.ui:39
+msgid "Panel Labels and Popup Menu"
+msgstr "Bovenbalklabels en uitklapmenu"
