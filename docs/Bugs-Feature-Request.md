@@ -19,7 +19,19 @@ gsettings --schemadir /home/$USER/.local/share/gnome-shell/extensions/Airpod-Bat
    * Gnome Version (found in the `about` section of your desktop settings (Gnome Control Center))
    * Operating system (e.g., Ubuntu 23.10)
    * Bluetooth device make, model and type
-   
+
+# Script
+
+This script can be helpful to get raw data. The script star discovery and prints manufacturer data and other details of all airpod found nearby.
+Download the [test.js](./resources/test.js){:download="abc.js"}
+Open terminal and type.
+```
+gjs-console /path/to/your/test.js
+```
+
+
+# General Extension Debugging.
+
 Although there are no logs included in this extension, you can still monitor for any errors in the log by using the following commands in the `terminal`:
 
 For Gnome Shell - logs related to the extension:
