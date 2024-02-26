@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Airpod Battery Monitor\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-23 17:54-0800\n"
+"POT-Creation-Date: 2024-02-25 20:01-0800\n"
 "PO-Revision-Date: 2024-02-24 22:21+0100\n"
 "Last-Translator: Albano Battistella <albanobattistella@gmail.com>\n"
 "Language-Team: Italian <LL@li.org>\n"
@@ -16,32 +16,32 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: lib/airpodPanel.js:18
+#: lib/airpodPanel.js:20
 msgid "Airpod Battery Monitor"
 msgstr "Monitor della batteria dell'Airpod"
 
-#: lib/airpodPanel.js:26
+#: lib/airpodPanel.js:28
 msgid "Headphone Battery Information"
 msgstr "Informazioni sulla batteria delle cuffie"
 
-#: lib/airpodPanel.js:254 lib/airpodTrayIndicator.js:244
+#: lib/airpodPanel.js:256 lib/airpodTrayIndicator.js:233
 msgid "Scanning..."
 msgstr "Scansione..."
 
-#: lib/airpodPanel.js:307 lib/airpodTrayIndicator.js:287
+#: lib/airpodPanel.js:309 lib/airpodTrayIndicator.js:276
 msgid "Last updated: "
 msgstr "Ultimo aggiornamento:"
 
-#: preferences/about.js:40
+#: preferences/about.js:42
 msgid "GNU General Public License, version 3 or later"
 msgstr "Licenza pubblica generale GNU, versione 3 o successiva"
 
-#: preferences/about.js:47
+#: preferences/about.js:49
 #, javascript-format
 msgid "© %s %s"
 msgstr "© %s %s"
 
-#: preferences/about.js:48
+#: preferences/about.js:50
 #, javascript-format
 msgid ""
 "This application comes with absolutely no warranty. See the <a "
@@ -50,11 +50,11 @@ msgstr ""
 "Questa applicazione non è assolutamente coperta da garanzia. Consulta <a "
 "href=\"%s\">%s</a> per i dettagli."
 
-#: preferences/general.js:70
+#: preferences/general.js:72
 msgid "(Paired)"
 msgstr "(accoppiato)"
 
-#: preferences/general.js:71
+#: preferences/general.js:73
 msgid "(Connected)"
 msgstr "(Connesso)"
 
