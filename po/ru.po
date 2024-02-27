@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Airpods Battery Monitor\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-23 18:44-0800\n"
-"PO-Revision-Date: 2024-02-17 16:28+0000\n"
-"Last-Translator: Anton Palgunov <toxblh@gmail.com>\n"
+"POT-Creation-Date: 2024-02-23 17:54-0800\n"
+"PO-Revision-Date: 2024-02-27 18:15+0300\n"
+"Last-Translator: Aleksandr Melman <Alexmelman88@gmail.com>\n"
 "Language-Team: \n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: lib/airpodPanel.js:20
 msgid "Airpod Battery Monitor"
-msgstr ""
+msgstr "Монитор батареи Airpods"
 
 #: lib/airpodPanel.js:28
 msgid "Headphone Battery Information"
@@ -28,7 +28,7 @@ msgstr "Информация о батарее наушников"
 
 #: lib/airpodPanel.js:256 lib/airpodTrayIndicator.js:233
 msgid "Scanning..."
-msgstr ""
+msgstr "Сканирование..."
 
 #: lib/airpodPanel.js:309 lib/airpodTrayIndicator.js:276
 msgid "Last updated: "
@@ -41,7 +41,7 @@ msgstr "GNU General Public License, версии 3 или позже"
 #: preferences/about.js:49
 #, javascript-format
 msgid "© %s %s"
-msgstr ""
+msgstr "© %s %s"
 
 #: preferences/about.js:50
 #, javascript-format
@@ -53,7 +53,7 @@ msgstr ""
 
 #: preferences/general.js:72
 msgid "(Paired)"
-msgstr "(Cопряжены)"
+msgstr "(Cопряжено)"
 
 #: preferences/general.js:73
 msgid "(Connected)"
@@ -61,7 +61,7 @@ msgstr "(Подключено)"
 
 #: ui/about.ui:5
 msgid "About"
-msgstr "О программе"
+msgstr "О расширении"
 
 #: ui/about.ui:75
 msgid "Read me"
@@ -85,7 +85,7 @@ msgstr "Правовой статус"
 
 #: ui/about.ui:217
 msgid "Crowdin"
-msgstr ""
+msgstr "Crowdin"
 
 #: ui/about.ui:229
 msgid "Online Tutorials"
@@ -113,14 +113,11 @@ msgstr "Нет сопряженных Airpods!"
 
 #: ui/general.ui:38
 msgid "Meter Indicators with Message tray"
-msgstr ""
+msgstr "Индикаторы в трее"
 
 #: ui/general.ui:39
 msgid "Panel Labels and Popup Menu"
-msgstr "Статус и Попап меню"
-
-#~ msgid "Meter Indicators and Trays"
-#~ msgstr "Индикаторы в трее"
+msgstr "Ярлыки на панели и всплывающее меню"
 
 #~ msgid "Not detected"
 #~ msgstr "Нет обнаружено"
