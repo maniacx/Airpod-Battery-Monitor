@@ -48,7 +48,7 @@ const BluezObjectProxy = Gio.DBusProxy.makeProxyWrapper(BluezObjectInterface);
 const adapter = new AdapterProxy(Gio.DBus.system, 'org.bluez', '/org/bluez/hci0');
 
 const MIN_RSSI = -70;
-const MANUFACTURER_ID = '529';
+const MANUFACTURER_ID = '76';
 const MANUFACTURER_DATA_LENGTH = 27;
 
 

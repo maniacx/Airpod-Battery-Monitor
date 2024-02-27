@@ -23,7 +23,7 @@ gsettings --schemadir /home/$USER/.local/share/gnome-shell/extensions/Airpod-Bat
 # Script
 
 This script can be helpful to get raw data. The script star discovery and prints manufacturer data and other details of all airpod found nearby.
-Download the [test.js](./resources/test.js){:download="abc.js"}
+Download the [test.js](./resources/test.js){:download="test.js"}
 Open terminal and type.
 ```
 gjs-console /path/to/your/test.js
