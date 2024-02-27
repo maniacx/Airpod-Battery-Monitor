@@ -1,0 +1,121 @@
+# Occitan translation file.
+# Copyright (C) YEAR maniacx@github.com
+# This file is distributed under the same license as the Airpod Battery Monitor package.
+# Quentin PAGÈS, 2024
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Airpod Battery Monitor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-23 17:54-0800\n"
+"PO-Revision-Date: 2024-02-27 17:30+0100\n"
+"Last-Translator: Quentin PAGÈS\n"
+"Language-Team: \n"
+"Language: oc\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: lib/airpodPanel.js:18
+msgid "Airpod Battery Monitor"
+msgstr "Monitor de batariá d’Airpod"
+
+#: lib/airpodPanel.js:26
+msgid "Headphone Battery Information"
+msgstr "Informacions de batariá d’escotadors"
+
+#: lib/airpodPanel.js:254 lib/airpodTrayIndicator.js:244
+msgid "Scanning..."
+msgstr "Deteccion..."
+
+#: lib/airpodPanel.js:307 lib/airpodTrayIndicator.js:287
+msgid "Last updated: "
+msgstr "Darrièra mesa a jorn :"
+
+#: preferences/about.js:40
+msgid "GNU General Public License, version 3 or later"
+msgstr "Licéncia publica generala GNU, version 3 o ulteriora"
+
+#: preferences/about.js:47
+#, javascript-format
+msgid "© %s %s"
+msgstr "© %s %s"
+
+#: preferences/about.js:48
+#, javascript-format
+msgid ""
+"This application comes with absolutely no warranty. See the <a href=\"%s\">"
+"%s</a> for details."
+msgstr ""
+"Aquesta aplicacion es provesida sens cap de garantida. Consultatz la <a "
+"href=\"%s\">%s</a> per mai de detalhs."
+
+#: preferences/general.js:70
+msgid "(Paired)"
+msgstr "(Apariat)"
+
+#: preferences/general.js:71
+msgid "(Connected)"
+msgstr "(Connectat)"
+
+#: ui/about.ui:5
+msgid "About"
+msgstr "A prepaus"
+
+#: ui/about.ui:75
+msgid "Read me"
+msgstr "Me legir"
+
+#: ui/about.ui:97
+msgid "Report an Issue"
+msgstr "Senhalar una avaria"
+
+#: ui/about.ui:114 ui/about.ui:197
+msgid "Translations"
+msgstr "Traduccions"
+
+#: ui/about.ui:136
+msgid "View sources on Github"
+msgstr "Veire lo còdi font sus Github"
+
+#: ui/about.ui:153 ui/about.ui:271
+msgid "Legal"
+msgstr "Mencions legalas"
+
+#: ui/about.ui:217
+msgid "Crowdin"
+msgstr "Crowdin"
+
+#: ui/about.ui:229
+msgid "Online Tutorials"
+msgstr "Tutorials en linha"
+
+#: ui/general.ui:5
+msgid "General"
+msgstr "General"
+
+#: ui/general.ui:10
+msgid "Settings"
+msgstr "Paramètres"
+
+#: ui/general.ui:13
+msgid "Choose interface style"
+msgstr "Causir l’estil de l’interfàcia"
+
+#: ui/general.ui:28
+msgid "Choose Model of Airpods"
+msgstr "Causir un modèl d’Airpod"
+
+#: ui/general.ui:31
+msgid "No Airpods paired!"
+msgstr "Cap d’Airpod pas apariat"
+
+#: ui/general.ui:38
+msgid "Meter Indicators with Message tray"
+msgstr "Indicacions de mesura amb zòna de messatge"
+
+#: ui/general.ui:39
+msgid "Panel Labels and Popup Menu"
+msgstr "Etiquetas del panèl e menú de fenèstra sorgissenta"
