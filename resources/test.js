@@ -125,7 +125,7 @@ function listBluetoothDevices() {
                             if (rssi && rssi >= MIN_RSSI && manufacturerData &&
                             (MANUFACTURER_ID in manufacturerData.deep_unpack())) {
                                 const rawData = manufacturerData.deep_unpack()[MANUFACTURER_ID].deep_unpack();
-                                if (rawData && rawData.length === MANUFACTURER_DATA_LENGTH && rawData[0] === 0x11) {
+                                if (rawData && rawData.length === MANUFACTURER_DATA_LENGTH) {
                                     foundDevices = true;
                                     formatManufacturerData(rawData, rssi);
                                 }
