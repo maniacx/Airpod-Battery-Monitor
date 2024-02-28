@@ -17,8 +17,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: lib/airpodPanel.js:18
-msgid "Airpod Battery Monitor"
-msgstr "Monitor della batteria dell'Airpod"
+msgid "AirPods Battery Monitor"
+msgstr "Monitor della batteria dell'AirPods"
 
 #: lib/airpodPanel.js:26
 msgid "Headphone Battery Information"
@@ -107,11 +107,11 @@ msgid "Choose interface style"
 msgstr "Scegli lo stile dell'interfaccia"
 
 #: ui/general.ui:28
-msgid "Choose Model of Airpods"
-msgstr "Scegli il modello di Airpods"
+msgid "Choose Model of AirPods"
+msgstr "Scegli il modello di AirPods"
 
 #: ui/general.ui:31
-msgid "No Airpods paired!"
+msgid "No AirPods paired!"
 msgstr "Nessun Airpod abbinato!"
 
 #: ui/general.ui:38

@@ -25,10 +25,10 @@
     
     <child>
       <object class="AdwPreferencesGroup" id="model_group">
-        <property name="title" translatable="yes">Choose Model of Airpods</property>
+        <property name="title" translatable="yes">Choose Model of AirPods</property>
         <child>
           <object class="AdwActionRow" id="no_paired_row">
-            <property name="title" translatable="yes">No Airpods paired!</property>
+            <property name="title" translatable="yes">No AirPods paired!</property>
           </object>
         </child>
       </object>
