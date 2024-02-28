@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Airpod Battery Monitor\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-23 17:54-0800\n"
+"POT-Creation-Date: 2024-02-28 10:03-0800\n"
 "PO-Revision-Date: 2024-02-27 17:30+0100\n"
 "Last-Translator: Quentin PAGÈS\n"
 "Language-Team: \n"
@@ -26,11 +26,11 @@ msgstr "Monitor de batariá d’Airpod"
 msgid "Headphone Battery Information"
 msgstr "Informacions de batariá d’escotadors"
 
-#: lib/airpodPanel.js:254 lib/airpodTrayIndicator.js:244
+#: lib/airpodPanel.js:253 lib/airpodTrayIndicator.js:244
 msgid "Scanning..."
 msgstr "Deteccion..."
 
-#: lib/airpodPanel.js:307 lib/airpodTrayIndicator.js:287
+#: lib/airpodPanel.js:306 lib/airpodTrayIndicator.js:287
 msgid "Last updated: "
 msgstr "Darrièra mesa a jorn :"
 
@@ -46,17 +46,21 @@ msgstr "© %s %s"
 #: preferences/about.js:48
 #, javascript-format
 msgid ""
-"This application comes with absolutely no warranty. See the <a href=\"%s\">"
-"%s</a> for details."
+"This application comes with absolutely no warranty. See the <a "
+"href=\"%s\">%s</a> for details."
 msgstr ""
 "Aquesta aplicacion es provesida sens cap de garantida. Consultatz la <a "
 "href=\"%s\">%s</a> per mai de detalhs."
 
-#: preferences/general.js:70
+#: preferences/general.js:72
+msgid "(Removed)"
+msgstr ""
+
+#: preferences/general.js:73
 msgid "(Paired)"
 msgstr "(Apariat)"
 
-#: preferences/general.js:71
+#: preferences/general.js:74
 msgid "(Connected)"
 msgstr "(Connectat)"
 

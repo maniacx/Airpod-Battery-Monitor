@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Airpod Battery Monitor\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-23 17:54-0800\n"
+"POT-Creation-Date: 2024-02-28 10:03-0800\n"
 "PO-Revision-Date: 2024-02-25 21:10+0100\n"
 "Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
 "Language-Team: \n"
@@ -26,11 +26,11 @@ msgstr "Airpod-accumonitor"
 msgid "Headphone Battery Information"
 msgstr "Accu-informatie omtrent koptelefoon"
 
-#: lib/airpodPanel.js:254 lib/airpodTrayIndicator.js:244
+#: lib/airpodPanel.js:253 lib/airpodTrayIndicator.js:244
 msgid "Scanning..."
 msgstr "Bezig met zoeken…"
 
-#: lib/airpodPanel.js:307 lib/airpodTrayIndicator.js:287
+#: lib/airpodPanel.js:306 lib/airpodTrayIndicator.js:287
 msgid "Last updated: "
 msgstr "Laatst bijgewerkt: "
 
@@ -49,14 +49,18 @@ msgid ""
 "This application comes with absolutely no warranty. See the <a "
 "href=\"%s\">%s</a> for details."
 msgstr ""
-"Deze toepassing wordt zonder enige vorm van garantie geleverd. "
-"Bekijk voor meer informatie <a href=\"%s\">%s</a>."
+"Deze toepassing wordt zonder enige vorm van garantie geleverd. Bekijk voor "
+"meer informatie <a href=\"%s\">%s</a>."
 
-#: preferences/general.js:70
+#: preferences/general.js:72
+msgid "(Removed)"
+msgstr ""
+
+#: preferences/general.js:73
 msgid "(Paired)"
 msgstr "(gekoppeld)"
 
-#: preferences/general.js:71
+#: preferences/general.js:74
 msgid "(Connected)"
 msgstr "(verbonden)"
 
