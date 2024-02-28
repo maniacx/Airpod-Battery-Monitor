@@ -25,7 +25,9 @@ const  DeviceItem = GObject.registerClass({
             model: list,
         });
 
-        const currentModelIndex = ModelList.findIndex(item => item.key === model);
+        let currentModelIndex = ModelList.findIndex(item => item.key === model);
+        if (currentModelIndex < 0)
+            currentModelIndex = 0;
         airpodModelDropDown.set_selected(currentModelIndex);
 
         airpodModelDropDown.connect('notify::selected', () => {
