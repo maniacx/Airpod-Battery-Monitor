@@ -69,9 +69,10 @@ const  DeviceItem = GObject.registerClass({
     }
 
     updateProperites(alias, connected, paired) {
+        const removedLabel = _('(Removed)');
         const pairedLabel = _('(Paired)');
         const connectedLabel = _('(Connected)');
-        const label = paired ? `${this._macAddesss} ${pairedLabel}` : this._macAddesss;
+        const label = paired ? `${this._macAddesss} ${pairedLabel}` : `${this._macAddesss} ${removedLabel}`;
         this.subtitle = connected ? `${this._macAddesss} ${connectedLabel}` : label;
         this.title = alias;
         this._deleteButton.sensitive = !paired;
