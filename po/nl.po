@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Airpod Battery Monitor\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-02-28 10:03-0800\n"
-"PO-Revision-Date: 2024-02-25 21:10+0100\n"
+"PO-Revision-Date: 2024-02-28 19:43+0100\n"
 "Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -54,7 +54,7 @@ msgstr ""
 
 #: preferences/general.js:72
 msgid "(Removed)"
-msgstr ""
+msgstr "(ontkoppeld)"
 
 #: preferences/general.js:73
 msgid "(Paired)"
