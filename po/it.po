@@ -52,7 +52,7 @@ msgstr ""
 
 #: preferences/general.js:74
 msgid "(Removed)"
-msgstr ""
+msgstr "(Rimosso)"
 
 #: preferences/general.js:75
 msgid "(Paired)"
