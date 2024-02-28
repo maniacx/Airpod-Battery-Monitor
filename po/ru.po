@@ -19,8 +19,8 @@ msgstr ""
 "X-Generator: Poedit 3.4.2\n"
 
 #: lib/airpodPanel.js:18
-msgid "Airpod Battery Monitor"
-msgstr "Монитор батареи Airpods"
+msgid "AirPods Battery Monitor"
+msgstr "Монитор батареи AirPods"
 
 #: lib/airpodPanel.js:26
 msgid "Headphone Battery Information"
@@ -108,12 +108,12 @@ msgid "Choose interface style"
 msgstr "Выберите стиль отображения"
 
 #: ui/general.ui:28
-msgid "Choose Model of Airpods"
+msgid "Choose Model of AirPods"
 msgstr "Выберите модель AirPods"
 
 #: ui/general.ui:31
-msgid "No Airpods paired!"
-msgstr "Нет сопряженных Airpods!"
+msgid "No AirPods paired!"
+msgstr "Нет сопряженных AirPods!"
 
 #: ui/general.ui:38
 msgid "Meter Indicators with Message tray"
