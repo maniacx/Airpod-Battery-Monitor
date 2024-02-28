@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Airpod Battery Monitor\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-23 18:44-0800\n"
+"POT-Creation-Date: 2024-02-28 13:06-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,11 +25,11 @@ msgstr ""
 msgid "Headphone Battery Information"
 msgstr ""
 
-#: lib/airpodPanel.js:256 lib/airpodTrayIndicator.js:233
+#: lib/airpodPanel.js:255 lib/airpodTrayIndicator.js:233
 msgid "Scanning..."
 msgstr ""
 
-#: lib/airpodPanel.js:309 lib/airpodTrayIndicator.js:276
+#: lib/airpodPanel.js:308 lib/airpodTrayIndicator.js:276
 msgid "Last updated: "
 msgstr ""
 
@@ -49,11 +49,15 @@ msgid ""
 "href=\"%s\">%s</a> for details."
 msgstr ""
 
-#: preferences/general.js:72
+#: preferences/general.js:74
+msgid "(Removed)"
+msgstr ""
+
+#: preferences/general.js:75
 msgid "(Paired)"
 msgstr ""
 
-#: preferences/general.js:73
+#: preferences/general.js:76
 msgid "(Connected)"
 msgstr ""
 

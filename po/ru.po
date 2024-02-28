@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Airpods Battery Monitor\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-23 17:54-0800\n"
+"POT-Creation-Date: 2024-02-28 13:06-0800\n"
 "PO-Revision-Date: 2024-02-27 18:15+0300\n"
 "Last-Translator: Aleksandr Melman <Alexmelman88@gmail.com>\n"
 "Language-Team: \n"
@@ -26,11 +26,11 @@ msgstr "Монитор батареи AirPods"
 msgid "Headphone Battery Information"
 msgstr "Информация о батарее наушников"
 
-#: lib/airpodPanel.js:256 lib/airpodTrayIndicator.js:233
+#: lib/airpodPanel.js:255 lib/airpodTrayIndicator.js:233
 msgid "Scanning..."
 msgstr "Сканирование..."
 
-#: lib/airpodPanel.js:309 lib/airpodTrayIndicator.js:276
+#: lib/airpodPanel.js:308 lib/airpodTrayIndicator.js:276
 msgid "Last updated: "
 msgstr "Обновлено: "
 
@@ -51,11 +51,15 @@ msgid ""
 msgstr ""
 "Это приложение не имеет никакой гарантии. Подробнее <a href=“%s”>%s</a>."
 
-#: preferences/general.js:72
+#: preferences/general.js:74
+msgid "(Removed)"
+msgstr ""
+
+#: preferences/general.js:75
 msgid "(Paired)"
 msgstr "(Cопряжено)"
 
-#: preferences/general.js:73
+#: preferences/general.js:76
 msgid "(Connected)"
 msgstr "(Подключено)"
 
