@@ -20,8 +20,8 @@ gsettings --schemadir /home/$USER/.local/share/gnome-shell/extensions/Airpod-Bat
    * Operating system (e.g., Ubuntu 23.10)
    * Bluetooth device make, model and type
 
-# Script for getting ManufactorerData
-This script can be helpful to get raw data in case you Airpod/Beats model is not detecting or is different model that is not yet supported by this extension. The script starts discovery and prints manufacturer data and other details of all airpod found nearby.
+# Script for getting Manufacturer Data
+This script can be helpful to get raw data in case you AirPods/Beats model is not detecting or is different model that is not yet supported by this extension. The script starts discovery and prints manufacturer data and other details of all AirPods found nearby.
 * Download the [test.js](./resources/test.js){:download="test.js"}
 * Disable Airpod-Battery-Monitor extension and close the Gnome Settings App > Bluetooth if opened. 
 * Open terminal and type.
