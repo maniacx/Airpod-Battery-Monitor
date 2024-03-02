@@ -54,7 +54,7 @@ msgstr ""
 
 #: preferences/general.js:72
 msgid "(Removed)"
-msgstr ""
+msgstr "(Levat)"
 
 #: preferences/general.js:73
 msgid "(Paired)"
