@@ -10,12 +10,22 @@ permalink: /bugs-feature-request
 Encountering issues with this extension? Please follow the steps below for troubleshooting and reporting:
 
 1. Check if there are any other Gnome extension installed and enabled that might conflict with this extension.
-2. Reset the `gsettings` for this extension. First, disable the extension using the `Extensions` or `Extension Manager` app. To reset `gsettings` for the Airpod Battery Monitor extension, use the command below in the `terminal`:
+2. Make sure `ControllerMode = dual` is set in `/etc/bluetooth/main.conf`.
+3. Reset the `gsettings` for this extension. First, disable the extension using the `Extensions` or `Extension Manager` app. To reset `gsettings` for the Airpod Battery Monitor extension, use the command below in the `terminal`:
 ```bash
 gsettings --schemadir /home/$USER/.local/share/gnome-shell/extensions/Airpod-Battery-Monitor@maniacx.github.com/schemas reset-recursively org.gnome.shell.extensions.Airpod-Battery-Monitor
 ```
-3. If the issue still persists, [Raise an issue on Github](https://github.com/maniacx/Airpod-Battery-Monitor/issues){: .btn .btn-purple .v-align-bottom .fs-2}.
-4. When reporting the issue, include the following details:
+4. Run the [test.js](./resources/test.js){:download="test.js"} script as mentioned in [below](#script-for-getting-manufacturer-data) section.
+5. In console/terminal run `bluetoothctl` and then type `scan le` to start discovery (scanning for bluetooth devices). Check if it scans devices and shows AirPods/Beats Manufacturer Key and Data as shown here.
+For Apple devices Manufacturer Key is `0x04C (76)` and For AirPods/Beats the Manufacturer Data starts with `0719` or `0713`. `scan off` to stop discovery.
+
+<video width="640" height="360" controls>
+  <source src="./assets/images/debugging/bluetoothctl.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+
+6. If the issue still persists, [Raise an issue on Github](https://github.com/maniacx/Airpod-Battery-Monitor/issues){: .btn .btn-purple .v-align-bottom .fs-2}.
+7. When reporting the issue, include the following details:
    * Gnome Version (found in the `about` section of your desktop settings (Gnome Control Center))
    * Operating system (e.g., Ubuntu 23.10)
    * Bluetooth device make, model and type
