@@ -4,7 +4,7 @@
   "description": "A Gnome extension for monitoring battery level of AirPods and Beats Bluetooth headset\n\nNote: This extension is not compatible with Bluetooth configurations in BR/EDR-only mode. Dual mode is required. Please refer to the Readme documentation for more information.\n\nhttps://maniacx.github.io/Airpod-Battery-Monitor/",
   "url": "https://github.com/maniacx/Airpod-Battery-Monitor",
   "shell-version": [ "43", "44" ],
-  "version": 4,
+  "version": 7,
   "settings-schema": "org.gnome.shell.extensions.Airpod-Battery-Monitor",
   "gettext-domain": "Airpod-Battery-Monitor@maniacx.github.com"
 }
