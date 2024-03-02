@@ -42,12 +42,20 @@
   font-size: 0.75em;
 }
 .abm-message-box:ltr {
+  padding-left: 8px;
+  padding-right: 18px;
+}
+.abm-message-box:rtl {
+  padding-left: 18px;
+  padding-right: 8px;
+}
+.abm-message-45-box:ltr {
   padding-top: 18px;
   padding-bottom: 18px;
   padding-left: 8px;
   padding-right: 18px;
 }
-.abm-message-box:rtl {
+.abm-message-45-box:rtl {
   padding-top: 18px;
   padding-bottom: 18px;
   padding-left: 18px;
