@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Airpod Battery Monitor\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-28 10:03-0800\n"
+"POT-Creation-Date: 2024-03-04 09:00-0800\n"
 "PO-Revision-Date: 2024-02-27 17:30+0100\n"
 "Last-Translator: Quentin PAGÈS\n"
 "Language-Team: \n"
@@ -26,11 +26,11 @@ msgstr "Monitor de batariá d’AirPods"
 msgid "Headphone Battery Information"
 msgstr "Informacions de batariá d’escotadors"
 
-#: lib/airpodPanel.js:253 lib/airpodTrayIndicator.js:244
+#: lib/airpodPanel.js:253 lib/airpodTrayIndicator.js:245
 msgid "Scanning..."
 msgstr "Deteccion..."
 
-#: lib/airpodPanel.js:306 lib/airpodTrayIndicator.js:287
+#: lib/airpodPanel.js:306 lib/airpodTrayIndicator.js:288
 msgid "Last updated: "
 msgstr "Darrièra mesa a jorn :"
 
