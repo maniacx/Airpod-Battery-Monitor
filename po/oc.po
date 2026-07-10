@@ -9,14 +9,14 @@ msgstr ""
 "Project-Id-Version: Airpod Battery Monitor\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-30 19:29-0700\n"
-"PO-Revision-Date: 2024-02-27 17:30+0100\n"
+"PO-Revision-Date: 2026-07-10 17:10+0200\n"
 "Last-Translator: Quentin PAGÈS\n"
 "Language-Team: \n"
 "Language: oc\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.9\n"
 
 #: lib/airpodPanel.js:23 lib/airpodTrayIndicator.js:135
 msgid "AirPods Battery Monitor"
@@ -32,7 +32,7 @@ msgstr "Deteccion..."
 
 #: lib/airpodPanel.js:311 lib/airpodTrayIndicator.js:343
 msgid "Last updated: "
-msgstr "Darrièra mesa a jorn :"
+msgstr "Darrièra mesa a jorn : "
 
 #: preferences/about.js:40
 msgid "GNU General Public License, version 3 or later"
@@ -106,27 +106,29 @@ msgstr "Paramètres"
 
 #: ui/general.ui:12
 msgid "Enable indicator"
-msgstr ""
+msgstr "Activar l’indicador"
 
 #: ui/general.ui:13
 msgid "Displays airpods battery level indicator in system tray"
 msgstr ""
+"Aficha l’indicador de nivèl de batariá dels airpods dins la barra "
+"sistèma"
 
 #: ui/general.ui:24
 msgid "Enable panel button with popup menu on panel"
-msgstr ""
+msgstr "Activar lo boton del panèl amb menú surgissent sul panèl"
 
 #: ui/general.ui:25
 msgid "Displays a panel button with popup menu on panel"
-msgstr ""
+msgstr "Aficha lo boton del panèl amb menú surgissent sul panèl"
 
 #: ui/general.ui:36
 msgid "Show details in message tray"
-msgstr ""
+msgstr "Afichar los detalhs dins la barra de messatges"
 
 #: ui/general.ui:37
 msgid "Displays battery level in message tray"
-msgstr ""
+msgstr "Aficha lo nivèl de batariá dins la barra de messatge"
 
 #: ui/general.ui:50
 msgid "Choose Model of AirPods"
@@ -134,7 +136,7 @@ msgstr "Causir un modèl d’Airpod"
 
 #: ui/general.ui:53
 msgid "No AirPods paired!"
-msgstr "Cap d’Airpod pas apariat"
+msgstr "Cap d’Airpod pas apariat !"
 
 #: ui/general.ui:60
 msgid "Meter Indicators with Message tray"
