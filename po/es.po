@@ -1,0 +1,146 @@
+# Spanish translation for Airpod Battery Monitor.
+# Copyright (C) 2024 maniacx@github.com
+# This file is distributed under the same license as the Airpod Battery Monitor package.
+# Pedro Flores, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Airpod Battery Monitor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-30 19:29-0700\n"
+"PO-Revision-Date: 2026-11-19 02:45+0100\n"
+"Last-Translator: Pedro Flores\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: lib/airpodPanel.js:23 lib/airpodTrayIndicator.js:135
+msgid "AirPods Battery Monitor"
+msgstr "Monitor de batería de AirPods"
+
+#: lib/airpodPanel.js:31
+msgid "Headphone Battery Information"
+msgstr "Información de batería de los auriculares"
+
+#: lib/airpodPanel.js:258 lib/airpodTrayIndicator.js:300
+msgid "Scanning..."
+msgstr "Buscando..."
+
+#: lib/airpodPanel.js:311 lib/airpodTrayIndicator.js:343
+msgid "Last updated: "
+msgstr "Última actualización: "
+
+#: preferences/about.js:40
+msgid "GNU General Public License, version 3 or later"
+msgstr "Licencia Pública General de GNU, versión 3 o posterior"
+
+#: preferences/about.js:47
+#, javascript-format
+msgid "© %s %s"
+msgstr "© %s %s"
+
+#: preferences/about.js:48
+#, javascript-format
+msgid ""
+"This application comes with absolutely no warranty. See the <a "
+"href=\"%s\">%s</a> for details."
+msgstr ""
+"Esta aplicación se ofrece sin ninguna garantía. Consulta la <a "
+"href=\"%s\">%s</a> para más detalles."
+
+#: preferences/general.js:73
+msgid "(Removed)"
+msgstr "(Eliminado)"
+
+#: preferences/general.js:74
+msgid "(Paired)"
+msgstr "(Emparejado)"
+
+#: preferences/general.js:75
+msgid "(Connected)"
+msgstr "(Conectado)"
+
+#: ui/about.ui:5
+msgid "About"
+msgstr "Acerca de"
+
+#: ui/about.ui:75
+msgid "Read me"
+msgstr "Léeme"
+
+#: ui/about.ui:97
+msgid "Report an Issue"
+msgstr "Informar de un problema"
+
+#: ui/about.ui:114 ui/about.ui:197
+msgid "Translations"
+msgstr "Traducciones"
+
+#: ui/about.ui:136
+msgid "View sources on Github"
+msgstr "Ver el código fuente en GitHub"
+
+#: ui/about.ui:153 ui/about.ui:271
+msgid "Legal"
+msgstr "Información legal"
+
+#: ui/about.ui:217
+msgid "Crowdin"
+msgstr "Crowdin"
+
+#: ui/about.ui:229
+msgid "Online Tutorials"
+msgstr "Tutoriales en línea"
+
+#: ui/general.ui:5
+msgid "General"
+msgstr "General"
+
+#: ui/general.ui:9
+msgid "Settings"
+msgstr "Configuración"
+
+#: ui/general.ui:12
+msgid "Enable indicator"
+msgstr "Activar indicador"
+
+#: ui/general.ui:13
+msgid "Displays airpods battery level indicator in system tray"
+msgstr ""
+"Muestra el indicador del nivel de batería de los AirPods en la bandeja del "
+"sistema"
+
+#: ui/general.ui:24
+msgid "Enable panel button with popup menu on panel"
+msgstr "Activar botón con menú emergente en el panel"
+
+#: ui/general.ui:25
+msgid "Displays a panel button with popup menu on panel"
+msgstr "Muestra un botón con menú emergente en el panel"
+
+#: ui/general.ui:36
+msgid "Show details in message tray"
+msgstr "Mostrar detalles en la bandeja de mensajes"
+
+#: ui/general.ui:37
+msgid "Displays battery level in message tray"
+msgstr "Muestra el nivel de batería en la bandeja de mensajes"
+
+#: ui/general.ui:50
+msgid "Choose Model of AirPods"
+msgstr "Elegir modelo de AirPods"
+
+#: ui/general.ui:53
+msgid "No AirPods paired!"
+msgstr "¡No hay AirPods emparejados!"
+
+#: ui/general.ui:60
+msgid "Meter Indicators with Message tray"
+msgstr "Indicadores de nivel con bandeja de mensajes"
+
+#: ui/general.ui:61
+msgid "Panel Labels and Popup Menu"
+msgstr "Etiquetas en el panel y menú emergente"
